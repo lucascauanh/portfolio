@@ -1,0 +1,30 @@
+img{
+    width: 100%;
+    height: auto;
+}
+
+h1
+{
+    color: #fcfbfbc7;
+    font-weight: bold;
+}
+
+p{
+    color: #fcfbfbc7;
+}
+
+a{
+    background-color: #E50914;
+    color: #fcfbfbc7;
+    text-decoration: none;
+}
+
+h3 {
+    color: #fcfbfbc7;
+}
+
+a:hover{
+    background-color: #0c0b0b;
+    color: #fcfbfbc7;
+    border: 2px solid #a8a6a6;
+}
